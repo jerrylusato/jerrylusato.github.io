@@ -7,6 +7,8 @@
 
 > Email Address: jerrylusato@gmail.com
 > 
+> GitHub: [@jerrylusato](https://github.com/jerrylusato)
+> 
 > Twitter: [@jerrylusato](https://twitter.com/jerrylusato)
 > 
 > WhatsApp: [0710557678](https://wa.me/255710557678)
