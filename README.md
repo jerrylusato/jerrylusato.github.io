@@ -5,7 +5,7 @@
 
 ### Let's connect..
 
-> Email Address: jerrylusato@gmail.com
+> Email Address: [jerrylusato@gmail.com](mailto:jerrylusato@gmail.com)
 > 
 > GitHub: [@jerrylusato](https://github.com/jerrylusato)
 > 
