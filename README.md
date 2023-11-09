@@ -1,11 +1,11 @@
 ### Hi! I'm Jerry Lusato
-*Software Engineer(Web)*
+*Software Engineer (Web)*
 
 ---
 
 ### Let's connect..
 
-> Email Address: [jerrylusato@gmail.com](mailto:jerrylusato@gmail.com)
+> Email Address: [jeremiahlusato@gmail.com](mailto:jeremiahlusato@gmail.com)
 > 
 > GitHub: [@jerrylusato](https://github.com/jerrylusato)
 > 
