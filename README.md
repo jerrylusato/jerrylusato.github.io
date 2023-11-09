@@ -1,4 +1,4 @@
-### Hi! I'm Jerry Lusato
+### Hi! I'm Jeremiah
 *Software Engineer*
 
 ---
