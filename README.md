@@ -17,3 +17,8 @@ Cloudflare Workers Builds automatically deploys every push to `main`, including
 merge commits, to the `my-website` Worker serving
 [jerrylusato.com](https://jerrylusato.com/). Non-production branches do not
 deploy to this Worker.
+
+The Worker serves only `index.html`. The `.assetsignore` allowlist prevents Git
+metadata, documentation, and other repository files from being published as
+static assets. After deployment, verify that `/` returns the homepage and that
+`/.git/HEAD` returns `404`.
