@@ -13,12 +13,10 @@
 
 ## Deployment
 
-Cloudflare Workers Builds automatically deploys every push to `main`, including
-merge commits, to the `my-website` Worker serving
-[jerrylusato.com](https://jerrylusato.com/). Non-production branches do not
-deploy to this Worker.
+GitHub Pages publishes `main` from the repository root at
+[jerrylusato.github.io](https://jerrylusato.github.io/).
 
-The Worker serves only `index.html`. The `.assetsignore` allowlist prevents Git
-metadata, documentation, and other repository files from being published as
-static assets. After deployment, verify that `/` returns the homepage and that
-`/.git/HEAD` returns `404`.
+The separate private [my-website repository](https://github.com/jerrylusato/my-website)
+owns Cloudflare deployment: `main` serves [jerrylusato.com](https://jerrylusato.com/)
+and `develop` serves [my-website-preview.jerrylusato.com](https://my-website-preview.jerrylusato.com/).
+This repository is no longer connected to the production Worker.
